@@ -4,7 +4,7 @@ Provisioning a complete AWS environment using Terraform (Infrastructure as Code)
 
 ## Architecture
 
-![Architecture Diagram](images/architecture.png)
+<img width="1488" height="992" alt="Architecture_terraform" src="https://github.com/user-attachments/assets/cdbd5b9e-6ed6-445e-8f27-9097267486ef" />
 
 ### Resources Created
 
