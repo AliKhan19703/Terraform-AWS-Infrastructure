@@ -1,0 +1,17 @@
+# Terraform state files - never commit these
+*.tfstate
+*.tfstate.*
+
+# Provider binaries and modules
+.terraform/
+
+# Crash logs
+crash.log
+crash.*.log
+
+# SSH keys
+*.pem
+
+# Override files
+override.tf
+override.tf.json

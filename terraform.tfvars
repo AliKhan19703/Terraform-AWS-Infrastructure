@@ -1,0 +1,6 @@
+aws_region = "eu-north-1"
+vpc_cidr = "10.0.0.0/16"
+subnet_cidr = "10.0.1.0/24"
+ami_id = "ami-0aba19e56f3eaec05"
+instance_type = "t3.micro"
+bucket_name = "my-terraform-bucket-ali-khan-123"
