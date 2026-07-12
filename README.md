@@ -132,7 +132,3 @@ Type `yes` when prompted. This removes all resources created by this configurati
 **Ali Khan**
 AWS Certified Solutions Architect - Associate
 [GitHub](https://github.com/AliKhan19703) | [LinkedIn](https://linkedin.com/in/ali-khan-389955252)
-
-## Acknowledgments
-
-Based on the hands-on guide "Terraform AWS: Complete Beginner to Practical Guide" by Abdhesh Kumar.
